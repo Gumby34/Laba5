@@ -5,3 +5,4 @@
 """
 array = [2, 3, 5, -2, 12, 0, 4, -10, -3, -5, 2, 5, 1, 0, -1, -12, -7]
 count = len ([i for i in array if i<sum(array)])
+print (count)
